@@ -19,3 +19,5 @@ Sometimes I use [google](https://www.google.com/) to do data science when i'm st
 
 If you'd like to learn more about this website, visit [this page](about.html)
 
+
+now i can put stuff on the internet..
