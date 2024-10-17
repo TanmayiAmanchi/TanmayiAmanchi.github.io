@@ -1,0 +1,15 @@
+---
+title: "About this website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Information about this website
+This is the about section of my website with information about me.
+
+
+Here's the link to take you [home](index.html)
+
+
